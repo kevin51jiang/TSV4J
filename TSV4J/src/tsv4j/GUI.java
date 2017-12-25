@@ -1,10 +1,8 @@
 /*
- * AUTHOR: kevin51jiang
- 
- LICENSING:
- 
- 
- 
+ * Copyright 2017 Kevin Jiang
+ * Use of this source code is governed by a Mozilla-style
+ * license that can be found in the LICENSE file or at
+ * https://opensource.org/licenses/MPL-2.0
  */
 package tsv4j;
 
