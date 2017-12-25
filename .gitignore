@@ -11,7 +11,8 @@
 .mtj.tmp/
 
 # Package Files #
-*.jar
+#*.jar 
+# Jar files need to be released for people who don't want to compile it for themselves
 *.war
 *.ear
 *.zip
