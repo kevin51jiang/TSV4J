@@ -248,6 +248,7 @@ public class GUI extends javax.swing.JFrame {
     void setIcon(){
         this.setIconImage(Toolkit.getDefaultToolkit().getImage(this.getClass().getResource("logo_16x16.png")));
         System.out.println("TestNumber2");
+        System.out.println("This should compile");
     }
     
     /**
